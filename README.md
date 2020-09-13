@@ -5,8 +5,8 @@
    Web-Pulsa-All-Operator
   <br>
 </h1>
-<h3 align=center>A multipurpose whatsapp bot built with <a href="https://github.com/pedroslopez/whatsapp-web.js">whatsapp-web.js</a></h3>
-<h3 align=center>Web Pulsa online with API key All Bank Indonesia<a href="https://github.com/sugicode/Web-Pulsa</a></h3>
+<h3 align=center>>Web Pulsa online with API key All Bank Indonesia With <a href="https://github.com/sugicode/Web-Pulsa">PortalPulsa</a></h3>
+
   
 ###Download Project ini pertama
 
