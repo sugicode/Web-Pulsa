@@ -5,3 +5,14 @@
    Web-Pulsa-All-Operator
   <br>
 </h1>
+### Instal-Tutorial
+
+Download Project ini pertama
+
+```bash
+> Import databasenya kelocalhost kalian
+> Ubah file koneksinya sesuai database yang kamu buat
+> Sesuaikan hostname, username, password, db_name
+> done
+
+```
